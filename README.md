@@ -1,1 +1,1 @@
-Tis is Software Project Lab Task
+This is a Software Project Lab Task
